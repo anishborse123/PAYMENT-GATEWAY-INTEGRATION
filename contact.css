@@ -148,7 +148,7 @@ body {
     font-size: 18px;
 }
 @media (max-width: 991px){
-    .contact{
+     .contact{
         padding: 50px;
         margin-top: 145px;
     }
@@ -159,11 +159,14 @@ body {
         width: 100%;
     }
     .nav-item{
-        margin: 5px 5px 2px 20px;
-        padding: 5px 10px;
+        margin: 1px 5px 1px 20px;
+        padding: 4px 10px;
     }
     .navbar-dark{
         position:absolute;
+    }
+    .logo{
+        margin-left: 50px;
     }
 }
 
