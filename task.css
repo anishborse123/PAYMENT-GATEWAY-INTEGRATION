@@ -84,14 +84,17 @@ h4{
 
 @media (max-width: 991px){
     .jumbotron{
-        margin: 45% 16% 15% 16%;
+        margin: 48% 16% 15% 16%;
     }
     .btn{
         padding: 1.375rem 1.75rem;
     }
     .nav-item {
-        margin: 5px 5px 5px 15px;
+        margin: 1px 5px 1px 15px;
         padding: 4px 18px;
+    }
+    .logo{
+        margin-left: 50px;
     }
 
 }
